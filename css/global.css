@@ -1,16 +1,17 @@
 html {
     scroll-behavior: smooth;
-    background: rgb(34, 33, 33);
+}
+
+body {
+    background-color: black;
     color: rgb(243, 235, 235);
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto','calibri', sans-serif;
     font-weight: 300;
     width: 100%;
-    display: grid;
+    margin: 0;
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: auto;
-    justify-content: center;
-    
 }

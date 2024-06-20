@@ -1,0 +1,67 @@
+h1, h2, h3, h4, h5 {
+    margin-top: .5em;
+    margin-bottom: 0;
+}
+
+.version {
+    margin-left: 1%;
+    top: 2px;
+}
+
+.socials {
+    text-align: right;
+    margin-right: 3%;
+}
+
+.social-icon {
+    width: 2em;
+    background-color: black;
+    border-radius: 0%;
+    border: none;
+    margin-left: 1em;
+}
+
+.navbar {
+    margin-top: 4em;
+    text-align: right;
+    margin-right: 5%;
+}
+
+.navbar ul {
+    margin: 0;
+}
+
+.navbar li {
+    display: inline;
+}
+
+button{
+    border:none;
+    border-radius:5%;
+    padding:.5em 1em;
+    font-size: 100%;
+    font-weight: 700;
+    cursor:pointer;
+    margin-left: 3em;
+    background-color: black;
+    color: white;
+}
+
+button.active {
+    border:none;
+    border-radius:5%;
+    padding:.5em 1em;
+    font-size: 100%;
+    font-weight: 700;
+    cursor:pointer;
+    margin-left: 3em;
+    background-color: white;
+    color: black;
+    box-shadow: .1em .1em .08em .1em white;
+}
+
+button:hover{
+    background-color:white;
+    color: black;
+    box-shadow: .1em .1em .08em .1em white;
+}
