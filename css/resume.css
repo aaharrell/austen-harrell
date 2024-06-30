@@ -1,0 +1,31 @@
+.resume-textbox {
+    text-align: left; 
+    margin: auto;
+    width: 50%;
+    border-style: none;
+    padding: none;
+    font-size: 1.2em;
+}
+
+.resume-textbox h1 {
+   font-weight: 200;
+   font-size: 3em;
+}
+
+.resume-textbox h2 {
+    font-weight: 200;
+    font-size: 2em;
+}
+
+.resume-textbox h3 {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.resume-text-separator {
+    height: .5em;
+    border-bottom: .1em solid rgb(114, 112, 112);
+    width: 80%;
+    margin: none;
+    margin-bottom: 1em;
+}
