@@ -15,3 +15,47 @@ body {
     display: grid;
     grid-template-columns: auto;
 }
+
+.textbox {
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+    border-style: none;
+    padding: none;
+    font-size: 1.2em;
+}
+
+.textbox h1 {
+   text-align: center; 
+   font-weight: 200;
+   font-size: 3em;
+}
+
+.textbox h2 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 2em;
+}
+
+.text-separator {
+    height: .5em;
+    border-bottom: .1em solid rgb(114, 112, 112);
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+.portrait {
+    text-align: center;
+    margin: auto;
+    padding: none;
+}
+
+.portrait img {
+    width: 15%;
+    max-width: 300px;
+    height: auto;
+    margin: auto; 
+    padding: none;
+    border-radius: 50%;
+}
