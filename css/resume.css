@@ -25,7 +25,15 @@
 .resume-text-separator {
     height: .5em;
     border-bottom: .1em solid rgb(114, 112, 112);
-    width: 80%;
+    width: 100%;
     margin: none;
     margin-bottom: 1em;
+}
+
+p {
+    margin: 0;
+}
+
+h3 {
+    margin-top: 1em;
 }
