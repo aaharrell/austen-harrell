@@ -1,7 +1,7 @@
 # austen-harrell
 Personal Website
 
-https://aaharrell.github.io/austen-harrell/
+https://aaharrell.github.io/austen-harrell/home.html
 
 This is a personal website with information about the creator, Austen Harrell.
 
